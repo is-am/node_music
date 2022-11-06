@@ -1,0 +1,25 @@
+{
+  "name": "node_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "captchapng2": "^1.0.3",
+    "koa": "^2.13.4",
+    "koa-art-template": "^1.1.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-formidable": "^1.1.0",
+    "koa-router": "^10.1.1",
+    "koa-session": "^6.2.0",
+    "koa-static": "^5.0.0",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  }
+}
